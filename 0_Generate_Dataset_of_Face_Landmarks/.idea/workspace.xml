@@ -18,6 +18,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ashkan\Desktop\Computer Vision\Face Detections\Drowsiness_Detection_using_Raspberry_Pi_Camera_Module\0_Generate_Dataset_of_Face_Landmarks" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Generate_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="0_Generate_Dataset_of_Face_Landmarks" />
@@ -69,12 +74,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619155924213</updated>
-      <workItem from="1619155925635" duration="264000" />
+      <workItem from="1619155925635" duration="1580000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1619160502629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1619160502629" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1619160502629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1619160502629" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1619160502629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1619160502629" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1619160502629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1619160502629" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/0_Generate_Dataset_of_Face_Landmarks$Generate_data.coverage" NAME="Generate_data Coverage Results" MODIFIED="1619156224115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
